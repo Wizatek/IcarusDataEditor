@@ -1,0 +1,8 @@
+D:\CS\Other\IcarusDataEditor\IcarusDataEditor\bin\Debug\IcarusDataEditor.exe
+D:\CS\Other\IcarusDataEditor\IcarusDataEditor\bin\Debug\IcarusDataEditor.pdb
+D:\CS\Other\IcarusDataEditor\IcarusDataEditor\obj\Debug\IcarusDataEditor.Form1.resources
+D:\CS\Other\IcarusDataEditor\IcarusDataEditor\obj\Debug\IcarusDataEditor.Properties.Resources.resources
+D:\CS\Other\IcarusDataEditor\IcarusDataEditor\obj\Debug\IcarusDataEditor.csproj.GenerateResource.cache
+D:\CS\Other\IcarusDataEditor\IcarusDataEditor\obj\Debug\IcarusDataEditor.csproj.CoreCompileInputs.cache
+D:\CS\Other\IcarusDataEditor\IcarusDataEditor\obj\Debug\IcarusDataEditor.exe
+D:\CS\Other\IcarusDataEditor\IcarusDataEditor\obj\Debug\IcarusDataEditor.pdb
